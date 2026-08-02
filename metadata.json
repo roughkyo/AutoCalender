@@ -1,0 +1,8 @@
+{
+  "name": "[배포용]학사력 구글 캘린더 동기화 서비스",
+  "description": "Gemini AI를 활용해 학사력 파일에서 일정을 추출하고 구글 캘린더에 \u0027학교\u0027 캘린더로 간편하게 등록하는 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
